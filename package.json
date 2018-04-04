@@ -1,0 +1,26 @@
+{
+  "name": "bundlejs",
+  "version": "1.0.0",
+  "description": "This is a bundle js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoLarrousse/bundleJS.git"
+  },
+  "author": "hugo.larrousse@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoLarrousse/bundleJS/issues"
+  },
+  "homepage": "https://github.com/hugoLarrousse/bundleJS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "lodash": "^4.17.5",
+    "mongodb": "^3.0.5"
+  }
+}
