@@ -27,4 +27,4 @@ exports.isArray = (array) => _.isArray(array);
 
 exports.isEmpty = (value) => _.isEmpty(value);
 
-exports.isObjectLike = (vallue) = _.isObjectLike(value);
+exports.isObjectLike = (vallue) => _.isObjectLike(value);
