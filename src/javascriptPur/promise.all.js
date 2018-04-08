@@ -1,3 +1,5 @@
+// article interesting : https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c
+
 const timeoutLOL = async (t) => {
   return new Promise((resolve) => {
     setTimeout(resolve, t, 'lol');
